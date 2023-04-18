@@ -31,5 +31,5 @@ https://youtu.be/YvrEYvG8h20
 # *****************************************
 # [VET6] [VET6] [VET6] [VET6] [VET6] 
 
-# STM32F407VET6 scheme (F407_ZG) [VET6] board
+# STM32F407VET6 scheme (F407_VE) [VET6] board
 ![Screenshot](/PICTURES/STM32F407VE_OMDAZZ_Schematic.GIF)
